@@ -1,0 +1,15 @@
+This script returns image urls to stdout for all jpeg images in a given size for an entire Cassini ISS data volume as found at the NASA PDS Rings Node at http://pds-ring.seti.org. 
+
+All images must be credited to:  NASA/JPL/Space Science Institute.
+
+Provide volume_id as first arg, and optionally image size as second arg. 
+Valid sizes = thumb/small/med/full. Default is 'med'
+
+Like so:
+
+python volume_scraper.py COISS_2069 thumb
+
+note that jpegs prodcued by the Rings Node are color coded to indicate filter used in all sizes except 'full' 
+
+This scraper made without prermission, please use wisely. 
+
