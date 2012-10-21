@@ -9,7 +9,7 @@ Like so:
 
 python volume_scraper.py COISS_2069 thumb
 
-note that jpegs prodcued by the Rings Node are color coded to indicate filter used in all sizes except 'full' 
+note that jpegs in all sizes except 'full' produced by the Rings Node are color tinted to indicate filter.
 
 This scraper made without prermission, please use wisely. 
 
