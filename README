@@ -2,4 +2,4 @@ A couple of scrapers for the NASA PDS Rings Node website.
 
 COISS_preview_images/volume_scraper.py - scrapes Cassini ISS jpeg images by volume and size
 
-press_release_images/pr_scraper.py - coming soon: scrape the press release ring images and content
+press_release_images/pr_scraper.py - scrape the press release ring images and content
