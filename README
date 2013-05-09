@@ -1,4 +1,4 @@
-A couple of scrapers for the NASA PDS Rings Node website. 
+A couple of scrapers for the NASA PDS Rings Node website. actually only one. Needs Love. 
 
 COISS_preview_images/volume_scraper.py - scrapes Cassini ISS jpeg images by volume and size
 
